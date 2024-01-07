@@ -16,3 +16,7 @@ use VS Code and JSON schema to createe FHIR resource in Visual Studio code
 
 # FHIR for Developers
 [https://medium.com/@jaideeppahwa1/list/fhir-for-developers-ea551cc4840c]
+
+# Rene Spronk - Introduction to FHIR for HL7 v2 experts | DevDays 2023 Amsterdam
+
+[https://www.youtube.com/watch?v=sxjVREJ-ByA]
