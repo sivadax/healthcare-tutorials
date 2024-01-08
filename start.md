@@ -20,3 +20,7 @@ use VS Code and JSON schema to createe FHIR resource in Visual Studio code
 # Rene Spronk - Introduction to FHIR for HL7 v2 experts | DevDays 2023 Amsterdam
 
 [https://www.youtube.com/watch?v=sxjVREJ-ByA]
+
+# Get started with Azure Health Data Services
+
+[https://learn.microsoft.com/en-us/training/modules/health-data-fast-healthcare-interoperability-resources/]
